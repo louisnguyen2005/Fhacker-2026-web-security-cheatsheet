@@ -5,7 +5,7 @@
 ## Nội dung
 
 - [Phần 1 — OWASP, lỗ hổng web và OWASP ZAP](01-owasp-web-security-zap.md)
-- Phần 2 — Vá lỗi trong ứng dụng, Nginx và Apache (đang hoàn thiện)
+- [Phần 2 — Vá lỗi trong ứng dụng, Nginx và Apache](02-patching-source-nginx-apache.md)
 
 ## Phạm vi và cách đọc
 
