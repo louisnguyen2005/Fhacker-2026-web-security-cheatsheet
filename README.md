@@ -7,6 +7,7 @@
 - [Phần 1 — OWASP, lỗ hổng web và OWASP ZAP](01-owasp-web-security-zap.md)
 - [Phần 2 — Vá lỗi trong ứng dụng, Nginx và Apache](02-patching-source-nginx-apache.md)
 - [Phần 3 — Hiểu và giải lab FCTF cục bộ](03-understand-and-solve-local-lab.md)
+- [Phần 4 — Tắt Daybreak trong Codex CLI](04-tat-daybreak-codex-cli.md)
 
 Script giải và nộp flag chỉ kết nối tới FCTF local lab trên 127.0.0.1: [solve_local_lab.py](scripts/solve_local_lab.py).
 
