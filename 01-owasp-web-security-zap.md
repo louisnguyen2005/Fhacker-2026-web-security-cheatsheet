@@ -15,6 +15,8 @@ Một lỗi web thường xuất hiện khi ranh giới tin cậy bị đặt sa
 
 OWASP Top 10 là tài liệu nhận thức/ưu tiên rủi ro, không phải danh sách đầy đủ hay chứng nhận ứng dụng an toàn. Dùng OWASP ASVS để chuyển yêu cầu thành tiêu chí kiểm chứng cụ thể.
 
+Để xem từng mục dưới dạng **code lỗi → cách tái hiện trong lab → bản vá → kiểm tra hồi quy**, đọc [Phần 5 — OWASP Top 10:2025: mã lỗi, tái hiện an toàn và bản vá](04-owasp-top10-code-exploit-fix.md).
+
 ## 2. OWASP Top 10:2025 — danh sách và cách xử lý
 
 OWASP Top 10:2025 là phiên bản mới nhất của danh sách rủi ro ứng dụng web tại thời điểm cập nhật. Hai mục mới là **A03 Software Supply Chain Failures** và **A10 Mishandling of Exceptional Conditions**; SSRF được gộp vào **A01 Broken Access Control**; phạm vi rủi ro thư viện lỗi thời được mở rộng thành chuỗi cung ứng phần mềm. Đây là phân loại rủi ro tổng quát; mỗi dự án cần threat model riêng.
